@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import DeliveryTracker from './components/DeliveryTracker';
 
 function App() {
   return (
